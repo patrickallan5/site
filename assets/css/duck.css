@@ -4875,6 +4875,19 @@ img.rounded {
     color: #fff;
     background-color: #f00;
 }
+.nk-social-links > li > *.nk-social-tiktok.hover, .nk-social-links > li > *.nk-social-tiktok.hover, .nk-social-links.nk-social-links-3 > li > *.nk-social-tiktok:hover, .nk-social-links.nk-social-links-3 > li > *.nk-social-tiktok.hover,
+.nk-social-links-2 > li > *.nk-social-tiktok:hover,
+.nk-social-links-2 > li > *.nk-social-tiktok.hover,
+.nk-social-links-2.nk-social-links-3 > li > *.nk-social-tiktok:hover,
+.nk-social-links-2.nk-social-links-3 > li > *.nk-social-tiktok.hover,
+.nk-social-links-3 > li > *.nk-social-tiktok:hover,
+.nk-social-links-3 > li > *.nk-social-tiktok.hover,
+.nk-social-links-3.nk-social-links-3 > li > *.nk-social-tiktok:hover,
+.nk-social-links-3.nk-social-links-3 > li > *.nk-social-tiktok.hover {
+    color: #fff;
+    background-color: rgb(63, 61, 61);
+}
+
 
 .nk-social-links-2 {
     margin-right: -4px;
